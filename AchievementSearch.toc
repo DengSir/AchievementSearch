@@ -1,0 +1,12 @@
+## Interface: 60000
+## Version: 1.0.1
+## Author: ldz5 and Jai
+## Title: |cffff565e[NetEase]|r Achievement Search
+## Notes: Add a search box to the Achievement frame.
+## Title-zhCN: |cffff565e[网易]|r 成就搜索
+## Notes-zhCN: 在成就面板增加搜索框
+## LoadOnDemand: 1
+## LoadWith: Blizzard_AchievementUI
+## DefaultState: enabled
+
+Load.xml
